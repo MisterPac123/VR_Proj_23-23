@@ -5,11 +5,12 @@ using UnityEngine;
 
 public class Marker : MonoBehaviour
 {
-    [SerializeField] private Transform _tip;
-    [SerializeField] private int _pensize = 2;
+    [SerializeField] public Transform _tip;
+    [SerializeField] public int _pensize = 2;
+    [SerializeField] public Color[] _colors;
+
 
     private Renderer _renderer;
-    private Color[] _colors;
     private float _tipHeight;
 
     //private RaycastHit _touch;
