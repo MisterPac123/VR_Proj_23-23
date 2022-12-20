@@ -1,0 +1,230 @@
+Using pre-set license
+Built from '2021.3/staging' branch; Version is '2021.3.14f1 (eee1884e7226) revision 15655304'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22621) 64bit Core' Language: 'pt' Physical Memory: 16085 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.3.14f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/pak97/Desktop/Meic/vr/My project/VR_Proj_23-23/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+64437
+Successfully changed project path to: C:/Users/pak97/Desktop/Meic/vr/My project/VR_Proj_23-23/My project
+C:/Users/pak97/Desktop/Meic/vr/My project/VR_Proj_23-23/My project
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Refreshing native plugins compatible for Editor in 340.21 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 1.04 ms.
+Initialize engine version: 2021.3.14f1 (eee1884e7226)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/pak97/Desktop/Meic/vr/My project/VR_Proj_23-23/My project/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 Ti with Max-Q Design (ID=0x1f95)
+    Vendor:   NVIDIA
+    VRAM:     3952 MB
+    Driver:   31.0.15.2698
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56720
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.14f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.021284 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 478.00 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.610 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2611ms)
+		BeginReloadAssembly (278ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (1911ms)
+			LoadAssemblies (267ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (367ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (358ms)
+			SetupLoadedEditorAssemblies (1030ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (61ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (478ms)
+				BeforeProcessingInitializeOnLoad (2ms)
+				ProcessInitializeOnLoadAttributes (375ms)
+				ProcessInitializeOnLoadMethodAttributes (111ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.025729 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image C:\Users\pak97\Desktop\Meic\vr\My project\VR_Proj_23-23\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Symbol file LoadedFromMemory doesn't match image C:\Users\pak97\Desktop\Meic\vr\My project\VR_Proj_23-23\My project\Library\PackageCache\com.unity.visualscripting@1.7.8\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 310.97 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.17 ms.
+Package Manager log level set to [2]
+System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
+  at Unity.XR.Oculus.OculusLoader.AssetPathToAbsolutePath (System.String assetPath) [0x0003d] in C:\Users\pak97\Desktop\Meic\vr\My project\VR_Proj_23-23\My project\Library\PackageCache\com.unity.xr.oculus@3.2.2\Runtime\OculusLoader.cs:296 
+  at Unity.XR.Oculus.OculusLoader.EditorLoadOVRPlugin () [0x0007b] in C:\Users\pak97\Desktop\Meic\vr\My project\VR_Proj_23-23\My project\Library\PackageCache\com.unity.xr.oculus@3.2.2\Runtime\OculusLoader.cs:281 
+  at (wrapper managed-to-native) System.Reflection.RuntimeMethodInfo.InternalInvoke(System.Reflection.RuntimeMethodInfo,object,object[],System.Exception&)
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x0006a] in <d6232873609549b8a045fa15811a5bd3>:0 
+   --- End of inner exception stack trace ---
+  at System.Reflection.RuntimeMethodInfo.Invoke (System.Object obj, System.Reflection.BindingFlags invokeAttr, System.Reflection.Binder binder, System.Object[] parameters, System.Globalization.CultureInfo culture) [0x00083] in <d6232873609549b8a045fa15811a5bd3>:0 
+  at System.Reflection.MethodBase.Invoke (System.Object obj, System.Object[] parameters) [0x00000] in <d6232873609549b8a045fa15811a5bd3>:0 
+  at UnityEditor.EditorAssemblies.ProcessInitializeOnLoadMethodAttributes () [0x000a5] in <6a5b55f2e18b419e9faedac06ac6af94>:0 
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEngine.DebugLogHandler:LogFormat (UnityEngine.LogType,UnityEngine.Object,string,object[])
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+UnityEngine.Debug:LogError (object)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadMethodAttributes ()
+
+Mono: successfully reloaded assembly
+- Completed reload, in  3.705 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3710ms)
+		BeginReloadAssembly (298ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (15ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (49ms)
+		EndReloadAssembly (3064ms)
+			LoadAssemblies (235ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (881ms)
+			ReleaseScriptCaches (5ms)
+			RebuildScriptCaches (219ms)
+			SetupLoadedEditorAssemblies (1598ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (37ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (311ms)
+				BeforeProcessingInitializeOnLoad (281ms)
+				ProcessInitializeOnLoadAttributes (876ms)
+				ProcessInitializeOnLoadMethodAttributes (79ms)
+				AfterProcessingInitializeOnLoad (13ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (16ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.12 seconds
+Refreshing native plugins compatible for Editor in 2.84 ms, found 12 plugins.
+Preloading 1 native plugins for Editor in 0.16 ms.
+Unloading 4384 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 54 unused Assets / (114.8 KB). Loaded Objects now: 4822.
+Memory consumption went from 153.6 MB to 153.5 MB.
+Total: 11.255700 ms (FindLiveObjects: 1.202900 ms CreateObjectMapping: 2.968400 ms MarkObjects: 6.756900 ms  DeleteObjects: 0.324900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 12596.770209 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/DefGrad_S_Hor.png
+  artifactKey: Guid(84dcdd9406cd22242b9866f5bf40bad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/DefGrad_S_Hor.png using Guid(84dcdd9406cd22242b9866f5bf40bad1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8865a851fd8e187ded0978fa1f9fcbca') in 0.283569 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/FCP_WindowSprite.png
+  artifactKey: Guid(d99e0b2fbb143a4429a9890ee6a3c420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/FCP_WindowSprite.png using Guid(d99e0b2fbb143a4429a9890ee6a3c420) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed7cba432e06db63668c167aeace57c9') in 0.052500 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000070 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/FCP_VerticalBarKnob.png
+  artifactKey: Guid(0a48ae0d613bd5e4f95dc21424f8c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/FCP_VerticalBarKnob.png using Guid(0a48ae0d613bd5e4f95dc21424f8c641) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f14b36f57c461df7b471699efa77b537') in 0.095317 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/FCP_BottomArrowKnob.png
+  artifactKey: Guid(e5d4b2a2d4f7f0a4d9d29612aaf020f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/FCP_BottomArrowKnob.png using Guid(e5d4b2a2d4f7f0a4d9d29612aaf020f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c52de2fc49dc1c1427acd2ff9e11aa16') in 0.059848 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/FCP_MeshedSpriteLowDetail.png
+  artifactKey: Guid(3f18f8476b7bfc642a7ba293296dc40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/FCP_MeshedSpriteLowDetail.png using Guid(3f18f8476b7bfc642a7ba293296dc40f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d8debb9551f36753df81e5cb6173c4') in 0.048028 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/FCP_MeshedSpriteHighDetail.png
+  artifactKey: Guid(ce940996bbf9aaf48b93e33ebcc08831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/FCP_MeshedSpriteHighDetail.png using Guid(ce940996bbf9aaf48b93e33ebcc08831) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c30fb7288c58c42884d678c42d44f0f') in 0.052438 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000055 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/DefGrad_R_Ver.png
+  artifactKey: Guid(105d974d9051ab648934ad37b726eae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/DefGrad_R_Ver.png using Guid(105d974d9051ab648934ad37b726eae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47367f4bfbabc493ff910d4da96da267') in 0.064271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.007636 seconds.
+  path: Assets/FlexibleColorPicker/Sprites/DefGrad_VS.png
+  artifactKey: Guid(70f194dd3b5bc754d9a1153445b604f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/FlexibleColorPicker/Sprites/DefGrad_VS.png using Guid(70f194dd3b5bc754d9a1153445b604f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f753cc2a39442926f272259a55f25aa3') in 0.090936 seconds 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0

@@ -378,6 +378,7 @@
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.SpatialTracking.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aE.dag/UnityEngine.XR.LegacyInputHelpers.ref.dll"
+"Assets/ClickAction.cs"
 "Assets/ColorPickerMenu.cs"
 "Assets/EraserButton.cs"
 "Assets/FlexibleColorPicker/ExampleScene/FCP_ExampleScript.cs"
@@ -393,6 +394,7 @@
 "Assets/Scrips/WallCreator.cs"
 "Assets/Scrips/WhiteBoard.cs"
 "Assets/Scrips/XRPlatformControllerSetup.cs"
+"Assets/WallPaperButton.cs"
 -langversion:9.0
 
 /deterministic

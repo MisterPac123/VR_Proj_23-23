@@ -26,8 +26,11 @@ public class ColorPickerButton : MonoBehaviour
     void Update()
     {
         int pensize = marker._pensize;
-        marker._colors = Enumerable.Repeat(fcp.color, pensize * pensize).ToArray();
-        Debug.Log(marker._colors);
+        if (colorPickerState)
+        {
+            marker._colors = Enumerable.Repeat(fcp.color, pensize * pensize).ToArray();
+            Debug.Log(marker._colors);
+        }
     }
 
     public void onButtonClick()

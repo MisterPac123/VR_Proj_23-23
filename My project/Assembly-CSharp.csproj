@@ -71,6 +71,8 @@
     <Compile Include="Assets\Scrips\HandWriter.cs" />
     <Compile Include="Assets\EraserButton.cs" />
     <Compile Include="Assets\Scrips\WhiteBoard.cs" />
+    <Compile Include="Assets\WallPaperButton.cs" />
+    <Compile Include="Assets\ClickAction.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

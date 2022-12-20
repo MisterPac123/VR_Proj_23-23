@@ -37,11 +37,7 @@ public class ErasorBtn : MonoBehaviour
         {
             pressed = false;
             marker._colors = init_colors;
-
         }
-        n++;
-
-        Debug.Log("Button clicked " + n + " times.");
 
     }
 }
