@@ -60,14 +60,17 @@
     <Compile Include="Assets\Scrips\WallCreator.cs" />
     <Compile Include="Assets\Scrips\PieMenuController.cs" />
     <Compile Include="Assets\Scrips\XRPlatformControllerSetup.cs" />
+    <Compile Include="Assets\Scrips\EraserButton.cs" />
     <Compile Include="Assets\FlexibleColorPicker\ExampleScene\FCP_ExampleScript.cs" />
     <Compile Include="Assets\FlexibleColorPicker\Scripts\FCP_Persistence.cs" />
+    <Compile Include="Assets\Scrips\ColorPickerButton.cs" />
     <Compile Include="Assets\Scrips\InputData.cs" />
+    <Compile Include="Assets\ColorPickerMenu.cs" />
     <Compile Include="Assets\FlexibleColorPicker\Scripts\FlexibleColorPicker.cs" />
     <Compile Include="Assets\Scrips\Marker.cs" />
     <Compile Include="Assets\Scrips\HandWriter.cs" />
+    <Compile Include="Assets\EraserButton.cs" />
     <Compile Include="Assets\Scrips\WhiteBoard.cs" />
-    <Compile Include="Assets\Scrips\ErasorButton.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
